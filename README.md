@@ -1,2 +1,3 @@
 # Machine-Learning
-Work done in CPE-695 
+Work done in ML Courses
+
